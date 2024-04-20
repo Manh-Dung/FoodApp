@@ -1,1 +1,2 @@
 # FoodApp
+Flutter Project
