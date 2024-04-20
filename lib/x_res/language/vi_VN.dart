@@ -1,0 +1,22 @@
+const Map<String, String> vi_VN = {
+  "home": "Trang chủ",
+  "register_account": "Đăng ký tài khoản",
+  "name": "Họ và tên",
+  "email_log_in": "Email đăng nhập",
+  "password": "Mật khẩu",
+  "confirm_password": "Xác nhận mật khẩu",
+  "i_have_read_and_agree_with": "Tôi đã đọc và đồng ý với ",
+  "terms_of_use": "điều khoản sử dụng",
+  "register": "Đăng ký",
+  "login": "Đăng nhập",
+  "do_you_have_an_account": "Bạn đã có tài khoản? ",
+  "please_check": "Vui lòng đồng ý với điều khoản",
+  "email_is_invalid": "Email không hợp lệ",
+  "cannot_be_empty": " không được để trống",
+  "error": "Lỗi",
+  "account": "Tài khoản",
+  "forgot_password": "Quên mật khẩu",
+  "user_name_or_email": "Tài khoản hoặc email",
+  "how_do_you_want_to_receive_the_otp_code": "Bạn muốn nhận được mã OTP bằng cách nào?",
+
+};

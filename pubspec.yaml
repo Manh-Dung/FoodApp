@@ -1,0 +1,119 @@
+name: ints
+description: A new Flutter application.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0-417.1.beta <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  carousel_slider: ^4.2.1
+  shimmer: ^3.0.0
+  lorem_ipsum:
+  numberpicker: ^2.1.2
+  persistent_bottom_nav_bar: ^5.0.2
+  lottie: ^3.1.0
+  image_picker: ^1.0.7
+
+  # UTILITIES
+  device_info_plus: ^9.1.2
+  package_info: ^2.0.2
+  url_launcher: ^6.1.7
+  win32: ^5.0.5
+  intl: ^0.19.0
+  flutter_launcher_icons: ^0.13.1
+
+  # GETX STATE MANAGEMENT
+  get: ^4.6.5
+  get_storage: ^2.0.3
+
+  # DATABASE
+  sembast: ^3.4.9
+
+  # Networking
+  dio: ^5.2.1+1
+  cookie_jar: ^4.0.5
+  dio_cookie_manager: ^3.1.0
+  jwt_decode: ^0.3.1
+
+  #Assets
+  flutter_svg: ^2.0.10+1
+  jwt_decoder: ^2.0.1
+
+  #Toast
+  oktoast: ^3.3.1
+  # add this line to your dependencies
+  fluttertoast: ^8.2.4
+
+  #Screen Util
+  flutter_screenutil: ^5.8.4
+
+  #Otp_text_field
+  flutter_otp_text_field: ^1.1.0+2
+
+  #read_more_text:
+  readmore: ^3.0.0
+
+  #rating
+  flutter_rating_bar: ^4.0.1
+
+  #badges
+  badges: ^3.1.2
+
+  dropdown_button2: ^2.3.9
+  timeline_tile: ^2.0.0
+  firebase_core: ^2.27.0
+  firebase_messaging: ^14.7.19
+  dotted_border: ^2.1.0
+
+  #map
+  geocoding: ^3.0.0
+  latlong2: ^0.9.1
+  flutter_map: ^6.1.0
+  geolocator: ^11.0.0
+  permission_handler: ^11.3.1
+  flutter_local_notifications: ^17.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/img_logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/gif/
+    - assets/fonts/
+    - assets/svg/
+    - assets/json/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins.ttf
+    - family: QuicksandMedium
+      fonts:
+        - asset: assets/fonts/Quicksand-Medium.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Thin.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Black.ttf
+          weight: 900

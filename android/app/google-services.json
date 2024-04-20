@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145657935974",
+    "project_id": "appfood7324",
+    "storage_bucket": "appfood7324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145657935974:android:8b9e97fbae7761dd1a55a7",
+        "android_client_info": {
+          "package_name": "com.daw.ints"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKuF5iy1cIWghduuDKWozVr1oP9X17480"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
