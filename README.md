@@ -15,5 +15,10 @@ Food App is a multi-functional application that allows users to easily view, sea
 - MVVM Architecture: Implementing the MVVM pattern to organize code for easy management and maintenance.
 - REST API: Using REST API for communication with the backend server.
 
+### Installation Guide:
+1. Clone the repository from this URL: https://github.com/Manh-Dung/FoodApp.git
+2. Install dependencies using the command: flutter pub get
+3. Run the app on an emulator or physical device using: flutter run
+
 ### URL
 [GitHub Repository](https://github.com/Manh-Dung/FoodApp)
