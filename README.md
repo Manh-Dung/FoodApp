@@ -39,8 +39,8 @@ The source code for the project can be found at [https://github.com/Manh-Dung/Fo
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Manh-Dung/FoodApp.git
-2. Navigate to the project directory: cd FoodApp
+1. Clone the repository: `git clone https://github.com/Manh-Dung/FoodApp.git`
+2. Navigate to the project directory: `cd FoodApp`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
